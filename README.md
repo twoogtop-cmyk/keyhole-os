@@ -109,7 +109,7 @@ cd /tmp && wget https://keybox.it-phenix.ru/install.sh && sh install.sh
 
 1. `ssh root@192.168.1.1` — адрес тот же, по которому вы заходите в настройки роутера
 2. `cd /tmp && wget https://keybox.it-phenix.ru/install.sh && sh install.sh`
-3. Откройте в браузере адрес роутера или `http://keyhole.local` — там будет код активации
+3. Откройте в браузере `http://keyhole.box` — там будет код активации
 4. Введите код в боте [@box_keyhole_bot](https://t.me/box_keyhole_bot)
 
 Настройки Wi-Fi, пароли и текущее подключение к интернету установщик **не
